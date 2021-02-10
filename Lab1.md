@@ -103,7 +103,7 @@ DistroTest.net is a project that allows you to test Linux/BSD distributions on y
 
 Locate the terminal application in the distribution you started and type the following command: `uname -a` Take a screenshot of the browser window showing the terminal application open.
 
-![image2](terminal.PNG)
+![image2](terminal.png)
 
 Stop the machine and take a screenshot of the browser window showing that the machine has been stopped.
 
