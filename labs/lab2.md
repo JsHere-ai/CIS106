@@ -1,5 +1,5 @@
 # Question 2 Screenshot
-![](url to screenshot here)
+![Question 2 Answer](../images/Picture1.PNG)
 # Question 3 Screenshot
 ![](url to screenshot here)
 # Question 4 Screenshot
