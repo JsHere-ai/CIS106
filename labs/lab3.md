@@ -19,9 +19,13 @@ Assignment description [here](https://raw.githubusercontent.com/ra559/cis106/mai
 ![Part 2 Question 2](../images/q2-2.png)
 
 ## Question 3
-![Question 3 Answer](../images/q3
+![Question 3 Answer](../images/q3.png)
 
 ## Question 4
-
+![Screenshot1](../images/q4-1.png)
+![Screenshot2](../images/q4-2.png)
+![Screenshot3](../images/q4-3.png)
 
 ## Question 5
+![Screenshot1](../images/q6.png)
+![Screenshot2](../images/q7.png)
