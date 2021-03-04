@@ -12,12 +12,16 @@ Assignment description [here](https://raw.githubusercontent.com/ra559/cis106/mai
 ![3.2 image](../images/epiphany.png)
 
 3.3 How much disk space will the package utilize after installation?
- 
+* **14.1 MB**
 
 ## Question 2
+![Question 2 Answer](../images/q2-1.png)
+![Part 2 Question 2](../images/q2-2.png)
 
 ## Question 3
+![Question 3 Answer](../images/q3
 
 ## Question 4
+
 
 ## Question 5
