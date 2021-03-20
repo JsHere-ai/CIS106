@@ -49,4 +49,5 @@
 4. Copy your new directory to the Pictures directory.
 5. Remove the new directory in your Downloads directory.
 
-![question 4](../images/lab4pic6.png)
+![question 4](../images/lab4pic7.png)
+![question 4](../images/lab4pic8.png)
