@@ -34,13 +34,8 @@
 3. Move all the files inside the lab4 directory to their respective new directories in your home directory. 
 4. Inside the  `lab4` directory, you will find a directory called `Wallpaperlab4`. Move this directory to your `Pictures` directory and rename it to `NewWallpapers`.
 5. Rename the `lab4` directory to `Lab-4`.
-
 ![Question3](../images/lab4pic4.png)
 ![Question 3](../images/lab4pic5.png)
-
-
-
-
 
 # Question 4: Copying Files and Directories
 1. Go to [pexels.com](https://www.pexels.com/search/HD%20wallpaper/). Download at least 3 wallpapers.
